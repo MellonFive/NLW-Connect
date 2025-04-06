@@ -23,7 +23,7 @@ Nesse projeto fiz um formulário sobre o CodeCraft Summit 2025.
   <img alt="projeto CodeCraft Summit" src=".github/Preview.gif" width="100%">
 </p>
 
-## Mobile
+## 📱 Mobile
 
 <p align="center">
   <img alt="projeto DevLinks" src=".github/Preview-mobile.gif" width="100%">
